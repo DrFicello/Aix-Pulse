@@ -1,0 +1,24 @@
+{
+  "name": "aix-pulse",
+  "version": "0.0.0",
+  "description": "PE",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DrFicello/Aix-Pulse"
+  },
+  "keywords": [
+    "PE"
+  ],
+  "author": "Thibault Linglain",
+  "license": " ",
+  "dependencies": {
+    "ent": "~0.1.0",
+    "logfmt": "~0.20.0",
+    "express": "~3.4.8",
+    "socket.io": "~0.9.16"
+  }
+}
